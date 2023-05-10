@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NeerajRawat01
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Android development and Coding fundamentals
-- 💞️ I’m looking to collaborate on Android Projects
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning fullstack development
+- 💞️ I’m looking to collaborate on react.js/next.js Projects
 - 📫 How to reach me ...
 
 <!---
